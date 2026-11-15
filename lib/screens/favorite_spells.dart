@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
-import '../services/notification_service.dart';
+import '../services/notification.dart';
 
 class FavoriteSpellsPage extends StatelessWidget {
   const FavoriteSpellsPage({super.key});
